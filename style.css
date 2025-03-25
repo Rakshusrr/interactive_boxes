@@ -119,7 +119,7 @@ body {
 
 /* Add colorful transitions for the boxes */
 .box:nth-child(1) {
-    background-color: red; /* Light red */
+    background-color: #f8d7da; /* Light red */
 }
 
 .box:nth-child(1):hover {
